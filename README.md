@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mo2nstrife
-- 👀 I’m interested in Android Developer Aplication
+- 👀 I’m interested in Android Developer Application
 - 🌱 I’m currently learning Kotlin Lang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
